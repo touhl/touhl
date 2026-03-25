@@ -1,6 +1,6 @@
 # Hi there, I'm Tou Hui Ling 👋
 
-**Data Analyst Engineer | Big Data & Forensic Analytics | Aspiring Cybersecurity Analyst**
+**Data Analyst Engineer | Big Data | Financial Analytics | Forensic Analytics | Aspiring Cybersecurity Analyst**
 
 I am a Data Analyst Engineer specializing in end-to-end data pipelines, big data manipulation, and forensic analytics. I currently manage complex data ecosystems—from ETL and data mart architecture to final visualization—for a major international gaming publisher. 
 
